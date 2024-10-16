@@ -1,0 +1,12 @@
+logging:
+  level:
+    root: INFO
+    org.springframework.web: DEBUG
+    com.bitesait: DEBUG
+  pattern:
+    console: "%d{yyyy-MM-dd HH:mm:ss} - %msg%n"
+
+app:
+  server:
+    port: {$PORT}
+

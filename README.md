@@ -25,7 +25,7 @@ Mingaz-Reports-Bot is a program developed at the request of  the head of the hea
     ```
 2. Navigate to the project directory:
     ```sh
-    cd ReportsBot-MINGAZ
+    cd Mingaz-Reports-Bot
     ```
 3. Build the project using Maven:
     ```sh

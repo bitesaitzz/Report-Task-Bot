@@ -25,7 +25,7 @@ Report-Task-Bot is a program developed at the request of one unitary enterprise.
     ```
 2. Navigate to the project directory:
     ```sh
-    cd Mingaz-Reports-Bot
+    cd Report-Task-Bot
     ```
 3. Build the project using Maven:
     ```sh

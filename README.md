@@ -1,8 +1,8 @@
-# Mingaz-Reports-Bot
+# Report-Task-Bot
 
 ## Description
 
-Report-Task-Bot is a program developed at the request of the head of some section of the unitary enterprise. The program is designed for employee reporting and task assignment.
+Report-Task-Bot is a program developed at the request of one unitary enterprise. The program is designed for employee reporting and task assignment.
 
 ## Features
 
